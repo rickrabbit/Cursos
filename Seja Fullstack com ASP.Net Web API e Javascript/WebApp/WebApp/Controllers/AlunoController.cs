@@ -13,9 +13,16 @@ namespace WebApp.Controllers
     public class AlunoController : ApiController
     {
         // GET: api/Aluno
-        public IEnumerable<Aluno> Get()
+        public IHttpActionResult Get()
         {
-            return Aluno.listaAlunos();
+            try
+            {
+                return Ok(Aluno.listaAlunosDB());
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
 
         // GET: api/Aluno/5

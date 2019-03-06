@@ -1,6 +1,9 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 
@@ -23,6 +26,13 @@ namespace WebApp.Models
             var listaAlunos = JsonConvert.DeserializeObject<List<Aluno>>(json);
 
             return listaAlunos;
+        }
+
+        public static List<Aluno> listaAlunosDB()
+        {
+            AlunoDAO alunoDB = new AlunoDAO();
+
+            return alunoDB.listaAlunosDB();
         }
 
         public static bool ReescreverArquivo(List<Aluno> listaAlunos)
