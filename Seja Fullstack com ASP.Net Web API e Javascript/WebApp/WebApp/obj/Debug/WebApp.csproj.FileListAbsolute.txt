@@ -1,0 +1,93 @@
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\csc.exe
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\csc.exe.config
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\csc.rsp
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\csi.exe
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\csi.rsp
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\vbc.exe
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\vbc.exe.config
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\vbc.rsp
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\WebApp.dll.config
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\WebApp.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\WebApp.pdb
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\Newtonsoft.Json.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\System.Web.Http.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\Newtonsoft.Json.xml
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\System.Web.Http.xml
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\obj\Debug\WebApp.dll
+c:\users\andre\onedrive\documentos\visual studio 2017\Projects\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\csc.exe
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\csc.exe.config
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\csc.rsp
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\csi.exe
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\csi.rsp
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\vbc.exe
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\vbc.exe.config
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\vbc.rsp
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\WebApp.dll.config
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\WebApp.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\WebApp.pdb
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\Newtonsoft.Json.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Web.Http.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\Newtonsoft.Json.xml
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Web.Http.xml
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\obj\Debug\WebApp.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Web.Cors.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+D:\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\System.Web.Http.Cors.xml
