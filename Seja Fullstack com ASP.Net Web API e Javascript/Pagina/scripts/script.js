@@ -49,10 +49,23 @@ function CarregaAlunos() {
 	
 	xhr.open("GET", `http://localhost:12758/api/aluno`, true);
 
-	xhr.onload = function () {
-		var aluno = JSON.parse(this.responseText);
-		for(var indice in aluno){
-			AdicionaLinha(aluno[indice]);
+	xhr.onerror = function () {
+		console.log("ERRO", xhr.readyState);
+	}
+
+	xhr.onreadystatechange = function () {
+		if (this.readyState == 4) {
+			if (this.status == 200) {
+				var aluno = JSON.parse(this.responseText);
+				for(var indice in aluno){
+					AdicionaLinha(aluno[indice]);
+				}
+			}
+			else if (this.status == 500) {
+				var erro = JSON.parse(this.responseText);
+				console.log(erro.Message);
+				console.log(erro.ExceptionMessage);
+			}
 		}
 	}
 	
