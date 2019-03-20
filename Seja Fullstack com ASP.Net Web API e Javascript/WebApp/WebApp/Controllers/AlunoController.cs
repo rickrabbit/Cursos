@@ -1,4 +1,5 @@
-﻿ using System;
+﻿using App.Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -12,12 +13,13 @@ namespace WebApp.Controllers
     [EnableCors("*", "*", "*")]
     public class AlunoController : ApiController
     {
+        [HttpGet]
         // GET: api/Aluno
         public IHttpActionResult Get()
         {
             try
             {
-                return Ok(Aluno.listaAlunosDB());
+                return Ok(AlunoModel.listaAlunosDB());
             }
             catch (Exception ex)
             {
@@ -25,30 +27,70 @@ namespace WebApp.Controllers
             }
         }
 
+        [HttpGet]
         // GET: api/Aluno/5
-        public Aluno Get(int id)
+        public IHttpActionResult Get(int id)
         {
-            return Aluno.listaAlunos().Where(w=> w.id == id).FirstOrDefault();
+            try
+            {
+                return Ok(AlunoModel.listaAlunosDB().Where(w => w.id == id).FirstOrDefault());
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
 
+        [HttpPost]        
         // POST: api/Aluno
-        public List<Aluno> Post([FromBody]Aluno aluno)
+        public IHttpActionResult Post([FromBody]AlunoDTO aluno)
         {
-            Aluno.Inserir(aluno);
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
-            return Aluno.listaAlunos();
+            try
+            {
+                AlunoModel.InserirDB(aluno);
+
+                return Ok(AlunoModel.listaAlunosDB());
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
 
+        [HttpPut]
         // PUT: api/Aluno/5
-        public void Put([FromBody]Aluno aluno)
+        public IHttpActionResult Put([FromBody]AlunoDTO aluno)
         {
-            Aluno.Atualizar(aluno);
+            try
+            {
+                AlunoModel.AtualizarDB(aluno);
+
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
 
+        [HttpDelete]
         // DELETE: api/Aluno/5
-        public void Delete(int id)
+        public IHttpActionResult Delete(int id)
         {
-            Aluno.Deletar(id);
+            try
+            {
+                AlunoModel.DeletarDB(id);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError(ex);
+            }
         }
     }
 }

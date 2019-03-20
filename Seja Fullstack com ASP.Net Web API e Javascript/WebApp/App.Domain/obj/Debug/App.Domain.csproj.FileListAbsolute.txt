@@ -1,0 +1,4 @@
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Domain\bin\Debug\App.Domain.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Domain\obj\Debug\App.Domain.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Domain\obj\Debug\App.Domain.pdb

@@ -1,0 +1,7 @@
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Repository\obj\Debug\App.Repository.csprojResolveAssemblyReference.cache
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Repository\bin\Debug\App.Repository.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Repository\bin\Debug\App.Repository.pdb
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Repository\bin\Debug\App.Domain.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Repository\bin\Debug\App.Domain.pdb
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Repository\obj\Debug\App.Repository.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\App.Repository\obj\Debug\App.Repository.pdb

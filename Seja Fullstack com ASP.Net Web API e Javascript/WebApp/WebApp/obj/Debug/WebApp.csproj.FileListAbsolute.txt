@@ -184,6 +184,14 @@ D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\Web
 D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
 D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
 D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
-D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\obj\Debug\WebApp.dll
 D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\WebApp.xml
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\Swashbuckle.Core.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\WebActivatorEx.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\App.Domain.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\App.Repository.dll
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\App.Domain.pdb
+D:\Git\Pessoal\Cursos\Seja Fullstack com ASP.Net Web API e Javascript\WebApp\WebApp\bin\App.Repository.pdb

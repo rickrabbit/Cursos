@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Git\\Pessoal\\Cursos\\Seja Fullstack com ASP.Net Web API e Javascript\\WebApp\\App.Domain\\App.Domain.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

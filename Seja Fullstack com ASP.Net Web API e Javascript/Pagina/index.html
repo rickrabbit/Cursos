@@ -1,38 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
-</head>
+	<link rel="stylesheet" href="styles/style.css">
+
 <body>
-	<div class="container">
+
+	<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+		<a class="navbar-brand" href="#">Acadêmico</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample03"
+			aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarsExample03">
+			<ul class="navbar-nav mr-auto">
+				<li class="nav-item active">
+					<a class="nav-link" href="#">Aluno <span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Disciplina</a>
+				</li>
+			</ul>
+			<form class="form-inline my-2 my-md-0 mr-5">
+				<li>
+					<a class="nav-link" href="#">Disciplina</a>
+				</li>
+				<div class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" style="color: white" href="#" id="dropdown03" data-toggle="dropdown"
+						aria-haspopup="true" aria-expanded="false">André</a>
+					<div class="dropdown-menu" aria-labelledby="dropdown03">
+						<a class="dropdown-item" href="#">Perfil</a>
+						<a class="dropdown-item" href="#">Configuração</a>
+						<a class="dropdown-item" href="#">Sair</a>
+					</div>
+				</div>
+
+			</form>
+		</div>
+	</nav>
+
+	<div class="container topPage">
 		<!-- Button trigger modal -->
 		<button type="button" class="btn btn-primary" onclick="NovoAluno()" style="margin-top: 15px;margin-bottom: 15px">
-		  Cadastrar
+			Cadastrar
 		</button>
 		<!-- Modal -->
-		<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-		  <div class="modal-dialog" role="document">
-		    <div class="modal-content">
-		      <div class="modal-header">
-		        <h5 class="modal-title" id="exampleModalLabel">Cadastrar Aluno</h5>
-		        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-		          <span aria-hidden="true">&times;</span>
-		        </button>
-		      </div>
-		      <div class="modal-body">
-				<div><label class="input-group">Nome:</label><input id="nome" type="text"></div>
-				<div><label class="input-group">Sobrenome:</label><input id="sobrenome" type="text"></div>
-				<div><label class="input-group">Telefone:</label><input id="telefone" type="text"></div>
-				<div><label class="input-group">RA:</label><input id="ra" type="text"></div>
-		      </div>
-		      <div class="modal-footer">
-				<button id="btnSalvar" class="btn btn-success" onclick="Cadastrar()">Salvar</button>
-				<button id="btnCancelar" class="btn btn-primary" onclick="Cancelar()">Cancelar</button>
-		      </div>
-		    </div>
-		  </div>
+		<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+			aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="exampleModalLabel">Cadastrar Aluno</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+						<div><label class="input-group">Nome:</label><input id="nome" type="text"></div>
+						<div><label class="input-group">Sobrenome:</label><input id="sobrenome" type="text"></div>
+						<div><label class="input-group">Telefone:</label><input id="telefone" type="text"></div>
+						<div><label class="input-group">RA:</label><input id="ra" type="text"></div>
+					</div>
+					<div class="modal-footer">
+						<button id="btnSalvar" class="btn btn-success" onclick="Cadastrar()">Salvar</button>
+						<button id="btnCancelar" class="btn btn-primary" onclick="Cancelar()">Cancelar</button>
+					</div>
+				</div>
+			</div>
 		</div>
 
 		<table class="table">
@@ -51,9 +89,17 @@
 	</div>
 
 	<script type="text/javascript" src="scripts/script.js"></script>
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script><script src="js/bootbox.min.js"></script>
-	
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+		integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+		crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+		integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+		crossorigin="anonymous"></script>
+	<script src="js/bootbox.min.js"></script>
+
 </body>
+
 </html>
